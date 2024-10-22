@@ -6,21 +6,37 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/background"
-    tools:context=".home">
+    tools:context=".books10p2">
 
 
     <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/animationView"
-        android:layout_width="391dp"
-        android:layout_height="333dp"
+        android:layout_width="171dp"
+        android:layout_height="139dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.501"
+        app:layout_constraintVertical_bias="0.004"
         app:lottie_autoPlay="true"
-        app:lottie_fileName="drivecar_anim.json"
-        app:lottie_loop="true" />
+        app:lottie_fileName="book_anim.json"
+        app:lottie_loop="false" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="180dp"
+        android:layout_height="26dp"
+        android:fontFamily="@font/agbalumo"
+        android:text="Учебники за 10 класс"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:typeface="sans"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.13" />
 
     <Button
         android:id="@+id/profile"
@@ -28,14 +44,13 @@
         android:layout_height="wrap_content"
         android:text="Главная"
         android:textColor="@color/buttontextcolor"
-        app:backgroundTint="#5089B8"
+        app:backgroundTint="@color/buttons"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.052"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.976" />
-
 
     <Button
         android:id="@+id/prdmet"
@@ -46,61 +61,9 @@
         app:backgroundTint="@color/buttons"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.539"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.975" />
-
-    <Button
-        android:id="@+id/Settings"
-        android:layout_width="173dp"
-        android:layout_height="48dp"
-        android:text="Настройки"
-        android:textColor="@color/buttontextcolor"
-        android:visibility="invisible"
-        app:backgroundTint="@color/buttons"
-        app:icon="@android:drawable/ic_menu_manage"
-        app:iconPadding="15dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.023" />
-
-
-    <Button
-        android:id="@+id/about3"
-        android:layout_width="219dp"
-        android:layout_height="52dp"
-        android:text="Пожертвования"
-        android:textColor="@color/buttontextcolor"
-        app:backgroundTint="@color/buttons"
-        app:icon="@android:drawable/ic_secure"
-        app:iconPadding="15dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.98"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.13"
-        tools:visibility="visible" />
-
-    <Button
-        android:id="@+id/about"
-        android:layout_width="218dp"
-        android:layout_height="53dp"
-        android:text="О нас"
-        android:textColor="@color/buttontextcolor"
-        app:backgroundTint="@color/buttons"
-        app:icon="@android:drawable/ic_menu_myplaces"
-        app:iconPadding="15dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.98"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.064" />
+        app:layout_constraintVertical_bias="0.978" />
 
     <Button
         android:id="@+id/reshebnik"
@@ -116,18 +79,48 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.976" />
 
-    <TextView
-        android:id="@+id/textView5"
-        android:layout_width="176dp"
-        android:layout_height="42dp"
-        android:text="Здесь пока ничего нет..."
-        android:textStyle="bold"
+    <Button
+        android:id="@+id/buttond1"
+        android:layout_width="244dp"
+        android:layout_height="57dp"
+        android:text="Английский язык"
+        android:textColor="@color/buttontextcolor"
+        app:backgroundTint="@color/buttons"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.557"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.715" />
+        app:layout_constraintVertical_bias="0.234" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="214dp"
+        android:layout_height="48dp"
+        android:text="Другой класс?
+"
+        android:textColor="@color/buttontextcolor"
+        app:backgroundTint="@color/buttons"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.906" />
+
+    <Button
+        android:id="@+id/back2"
+        android:layout_width="198dp"
+        android:layout_height="60dp"
+        android:text="Прошлая страница"
+        android:textColor="@color/buttontextcolor"
+        app:backgroundTint="#8868859D"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.511"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.812" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

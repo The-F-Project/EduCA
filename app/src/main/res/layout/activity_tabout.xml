@@ -39,9 +39,9 @@
 
     <TextView
         android:id="@+id/textView13"
-        android:layout_width="306dp"
-        android:layout_height="97dp"
-        android:text="EduCA - это максимально простая программа сосредоточенная для быстрого доступа к учебникам и прочим учебным материалам"
+        android:layout_width="301dp"
+        android:layout_height="62dp"
+        android:text="Цель EduCA это облегчить быт школьника, ускорить доступ к пособиям и решенным заданиям"
         android:textAlignment="center"
         android:textSize="14sp"
         android:textStyle="bold"
@@ -57,8 +57,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Наши контакты"
-        android:textColor="@color/buttontextcolor"
-        app:backgroundTint="@color/buttons"
+        android:backgroundTint="@color/buttontextcolor"
+        android:textColor="#8C8787"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.552"
@@ -71,8 +71,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Назад"
-        android:textColor="@color/buttontextcolor"
-        app:backgroundTint="@color/buttons"
+        android:backgroundTint="@color/buttontextcolor"
+        android:textColor="#8C8787"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.538"
@@ -89,10 +89,10 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.564"
+        app:layout_constraintHorizontal_bias="0.553"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.625" />
+        app:layout_constraintVertical_bias="0.608" />
 
     <TextView
         android:id="@+id/textView8"
@@ -114,8 +114,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Проверка обновлений"
-        android:textColor="@color/buttontextcolor"
-        app:backgroundTint="@color/buttons"
+        android:backgroundTint="@color/buttontextcolor"
+        android:textColor="#8C8787"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.558"

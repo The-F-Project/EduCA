@@ -59,8 +59,9 @@
         android:id="@+id/button13"
         android:layout_width="283dp"
         android:layout_height="50dp"
-        android:backgroundTint="@color/buttontextcolor"
+
         android:text="Телеграм"
+        android:backgroundTint="@color/buttontextcolor"
         android:textColor="#8C8787"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

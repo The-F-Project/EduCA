@@ -23,55 +23,16 @@
         app:lottie_fileName="verybook_anim.json"
         app:lottie_loop="true" />
 
-    <Button
-        android:id="@+id/telegram"
-        android:layout_width="263dp"
-        android:layout_height="63dp"
-        android:text="Telegram"
-        android:textColor="@color/buttontextcolor"
-        app:backgroundTint="#8F396E99"
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="414dp"
+        android:layout_height="648dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/git"
-        android:layout_width="263dp"
-        android:layout_height="63dp"
-        android:text="GitHub"
-        android:textColor="@color/buttontextcolor"
-        app:backgroundTint="#8F396E99"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.238"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.594" />
+        app:layout_constraintVertical_bias="1.0" />
 
-    <Button
-        android:id="@+id/email"
-        android:layout_width="263dp"
-        android:layout_height="63dp"
-        android:text="Email"
-        android:textColor="@color/buttontextcolor"
-        app:backgroundTint="#8F396E99"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.688" />
 
-    <Button
-        android:id="@+id/back"
-        android:layout_width="132dp"
-        android:layout_height="53dp"
-        android:text="Назад"
-        android:textColor="@color/buttontextcolor"
-        app:backgroundTint="#8F396E99"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.91" />
 </androidx.constraintlayout.widget.ConstraintLayout>

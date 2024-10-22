@@ -61,9 +61,10 @@
         app:backgroundTint="@color/buttons"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.539"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.978" />
+        app:layout_constraintVertical_bias="0.975" />
 
     <Button
         android:id="@+id/reshebnik"
@@ -198,7 +199,7 @@
         android:layout_height="63dp"
         android:text="Следующая страница"
         android:textColor="@color/buttontextcolor"
-        app:backgroundTint="@color/buttons"
+        app:backgroundTint="#6699C1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

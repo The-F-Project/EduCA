@@ -10,16 +10,18 @@
 
 
     <com.airbnb.lottie.LottieAnimationView
-        android:id="@+id/LottiAnim"
-        android:layout_width="297dp"
-        android:layout_height="242dp"
+        android:id="@+id/animationView"
+        android:layout_width="245dp"
+        android:layout_height="213dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.64"
+        app:layout_constraintHorizontal_bias="0.56"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        app:lottie_fileName="verybook_anim.json" />
+        app:layout_constraintVertical_bias="0.022"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="verybook_anim.json"
+        app:lottie_loop="false" />
 
     <Button
         android:id="@+id/loginin"
@@ -28,6 +30,7 @@
         android:backgroundTint="@color/buttons"
         android:text="Войти"
         android:textColor="#49454F"
+        app:icon="@android:drawable/ic_menu_upload"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.517"
@@ -51,6 +54,22 @@
         app:layout_constraintVertical_bias="0.334" />
 
     <TextView
+        android:id="@+id/textView24"
+        android:layout_width="166dp"
+        android:layout_height="20dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="copyright ©The F Project 2024 "
+        android:textAlignment="center"
+        android:textSize="12sp"
+        android:typeface="sans"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.54"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
         android:id="@+id/textView"
         android:layout_width="138dp"
         android:layout_height="61dp"
@@ -71,14 +90,14 @@
         android:layout_height="49dp"
         android:fontFamily="sans-serif-condensed-medium"
         android:text="v0.5.1 DEV BUILD 20-09-2024 1:05pm"
+        android:textAlignment="center"
         android:textSize="14sp"
         android:typeface="sans"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.079"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0" />
+        app:layout_constraintVertical_bias="0.611" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline"
