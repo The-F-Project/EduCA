@@ -16,6 +16,26 @@
         android:theme="@style/Theme.Edu"
         tools:targetApi="31">
         <activity
+            android:name=".books10p2"
+            android:exported="false" />
+        <activity
+            android:name=".algebra10thspravochnikpt1"
+            android:exported="false" />
+        <activity
+            android:name=".schoolprojectstartpage"
+            android:exported="false" />
+        <activity
+            android:name=".ScrollingActivity"
+            android:exported="false"
+            android:label="@string/title_activity_scrolling"
+            android:theme="@style/Theme.Edu.NoActionBar" />
+        <activity
+            android:name=".skproject"
+            android:exported="false" />
+        <activity
+            android:name=".shcoolproject"
+            android:exported="false" />
+        <activity
             android:name=".books8th"
             android:exported="false" />
         <activity
