@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/z90w1ejfhopya0qwh6nlre2wazya7yg6ihwlf0yf8zvn7wqob"
+        android:label="EduCA BETA"
+        android:roundIcon="@drawable/z90w1ejfhopya0qwh6nlre2wazya7yg6ihwlf0yf8zvn7wqob"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Edu"
+        tools:targetApi="31">
+        <activity
+            android:name=".algebra10th"
+            android:exported="false" />
+        <activity
+            android:name=".faqmathth10"
+            android:exported="false" />
+        <activity
+            android:name=".updater"
+            android:exported="false" />
+        <activity
+            android:name=".books10p2"
+            android:exported="false" />
+        <activity
+            android:name=".algebra10thspravochnikpt1"
+            android:exported="false" />
+        <activity
+            android:name=".schoolprojectstartpage"
+            android:exported="false" />
+        <activity
+            android:name=".ScrollingActivity"
+            android:exported="false"
+            android:label="@string/title_activity_scrolling"
+            android:theme="@style/Theme.Edu.NoActionBar" />
+        <activity
+            android:name=".skproject"
+            android:exported="false" />
+        <activity
+            android:name=".shcoolproject"
+            android:exported="false" />
+        <activity
+            android:name=".books8th"
+            android:exported="false" />
+        <activity
+            android:name=".donate"
+            android:exported="false" />
+        <activity
+            android:name=".reshebnik20thenglishtype"
+            android:exported="false" />
+        <activity
+            android:name=".reshebnik8th"
+            android:exported="false" />
+        <activity
+            android:name=".reshebnik9th"
+            android:exported="false" />
+        <activity
+            android:name=".contact"
+            android:exported="false" />
+        <activity
+            android:name=".contacts"
+            android:exported="false" />
+        <activity
+            android:name=".class9reshbniknumbers"
+            android:exported="false" />
+        <activity
+            android:name=".home"
+            android:exported="false" />
+        <activity
+            android:name=".tabout"
+            android:exported="false" />
+        <activity
+            android:name=".book8th"
+            android:exported="false" />
+        <activity
+            android:name=".book9th"
+            android:exported="false" />
+        <activity
+            android:name=".pagenotfound"
+            android:exported="false" />
+        <activity
+            android:name=".bookslist"
+            android:exported="false" />
+        <activity
+            android:name=".reshebniklist"
+            android:exported="false" />
+        <activity
+            android:name=".about"
+            android:exported="false" />
+        <activity
+            android:name=".settings"
+            android:exported="false" />
+        <activity
+            android:name=".reshebnik10th"
+            android:exported="false" />
+        <activity
+            android:name=".books10th"
+            android:exported="false" />
+        <activity
+            android:name=".predmets"
+            android:exported="false" />
+        <activity
+            android:name=".profile"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

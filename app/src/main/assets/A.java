@@ -1,0 +1,1 @@
+/home/falied/Documents/edu-web/Screenshot From 2024-10-26 13-12-48.png
