@@ -9,16 +9,17 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
-class reshebnik10th : AppCompatActivity() {
+class reshebnik9th : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-        setContentView(R.layout.activity_reshebnik10th)
+        setContentView(R.layout.activity_reshebnik9th)
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+
         val main = findViewById<View>(R.id.profile)
         val predmets = findViewById<View>(R.id.prdmet)
         predmets.setOnClickListener {
@@ -45,28 +46,24 @@ class reshebnik10th : AppCompatActivity() {
             startActivity(g)
         }
         algevra.setOnClickListener {
-            val g = Intent(this, algebra10th::class.java)
-            startActivity(g)
+            val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://resheba.top/algebra-9-klass-arefeva")); startActivity(browserIntent);
 
         }
         geometria.setOnClickListener {
             // https://resheba.top/geometrija-10-klass
-            val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://resheba.top/geometrija-10-klass")); startActivity(browserIntent);
+            val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://resheba.top/geometrija-9-klass-kazakov")); startActivity(browserIntent);
 
         }
         english.setOnClickListener {
             // https://resheba.top/anglijskij-jazyk-10-klass
-            //val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://resheba.top/anglijskij-jazyk-10-klass")); startActivity(browserIntent);
-            val g = Intent(this, reshebnik20thenglishtype::class.java)
-            startActivity(g)
-
+            val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://resheba.top/anglijskij-jazyk-9-klass")); startActivity(browserIntent);
 
         }
 
         physic.setOnClickListener {
             // https://resheba.top/fizika-10-klass
 
-            val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://resheba.top/fizika-10-klass")); startActivity(browserIntent);
+            val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://resheba.top/fizika-9-klass")); startActivity(browserIntent);
 
 
         }
@@ -74,8 +71,9 @@ class reshebnik10th : AppCompatActivity() {
         hemia.setOnClickListener {
             // https://resheba.top/himija-10-klass
 
-            val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://resheba.top/himija-10-klass")); startActivity(browserIntent);
+            val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://resheba.top/himija-9-klass")); startActivity(browserIntent);
 
         }
+
     }
-    }
+}
