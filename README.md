@@ -24,6 +24,7 @@ EduCA - это максимально простая программа соср
 ![изображение](https://github.com/user-attachments/assets/75551ca7-c26d-447c-b257-e62674221a8a)
 ![изображение](https://github.com/user-attachments/assets/1d49e7d0-4e32-4253-bcf1-1a76870ca0c9)
 ![изображение](https://github.com/user-attachments/assets/c0a0740b-9ccf-4ef8-87bd-a6c51ae5613c)
+![изображение](https://github.com/user-attachments/assets/d511015b-afd3-4147-8454-15a55609944e)
 
 
 
