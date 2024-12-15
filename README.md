@@ -1,5 +1,6 @@
 
-![изображение](https://github.com/user-attachments/assets/9c66b3cd-4173-45b2-a9a2-c8879298021a)
+![изображение-removebg-preview](https://github.com/user-attachments/assets/9d273b76-7cac-4903-ac57-17614b79e0e5)
+
 
 
 
@@ -17,18 +18,17 @@ EduCA - это максимально простая программа соср
 
 Скриншоты
 
-![изображение](https://github.com/user-attachments/assets/d74a119b-91d9-4684-8071-7a5afdd687e4)
-![изображение](https://github.com/user-attachments/assets/943abcc5-fbdb-41b9-a989-fdbd2e9e6bbc)
-![изображение](https://github.com/user-attachments/assets/c0b48d5f-f1da-41ab-b6c4-bb1b5a96a2a4)
-![изображение](https://github.com/user-attachments/assets/aefa8311-09b5-40b9-825e-00bb02783281)
-![изображение](https://github.com/user-attachments/assets/75551ca7-c26d-447c-b257-e62674221a8a)
-![изображение](https://github.com/user-attachments/assets/1d49e7d0-4e32-4253-bcf1-1a76870ca0c9)
-![изображение](https://github.com/user-attachments/assets/c0a0740b-9ccf-4ef8-87bd-a6c51ae5613c)
-![изображение](https://github.com/user-attachments/assets/d511015b-afd3-4147-8454-15a55609944e)
+![изображение](https://github.com/user-attachments/assets/b8a8000a-c399-49d1-b7e4-5f3d5b0dbc27)
+![изображение](https://github.com/user-attachments/assets/9b0a6493-9b10-407f-a694-3fbd1995521c)
+![изображение](https://github.com/user-attachments/assets/a6f87ec6-ae68-43b7-80f9-4c620db66c89)
+![изображение](https://github.com/user-attachments/assets/9b8ebe9d-8578-4155-8b53-3ecea56f66e0)
+![изображение](https://github.com/user-attachments/assets/938981e2-6632-4087-aed4-cfac2a38b8d9)
+![изображение](https://github.com/user-attachments/assets/7b6afeeb-719d-40ca-95e0-bfeb793e6d10)
 
 
 
-Актуальна версия: [Тут](https://github.com/FaliedDedd/edu/releases)
+
+Актуальна версия: [Тут]([https://github.com/FaliedDedd/edu/releases](https://github.com/The-F-Project/EduCA/releases))
 
 
 
