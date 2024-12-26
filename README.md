@@ -20,13 +20,12 @@ EduCA - простая программа, сосредоточенная на �
 
 Скриншоты
 
-![изображение](https://github.com/user-attachments/assets/b8a8000a-c399-49d1-b7e4-5f3d5b0dbc27)
-![изображение](https://github.com/user-attachments/assets/9b0a6493-9b10-407f-a694-3fbd1995521c)
-![изображение](https://github.com/user-attachments/assets/a6f87ec6-ae68-43b7-80f9-4c620db66c89)
-![изображение](https://github.com/user-attachments/assets/9b8ebe9d-8578-4155-8b53-3ecea56f66e0)
-![изображение](https://github.com/user-attachments/assets/938981e2-6632-4087-aed4-cfac2a38b8d9)
-![изображение](https://github.com/user-attachments/assets/7b6afeeb-719d-40ca-95e0-bfeb793e6d10)
-
+![photo_2024-12-26_23-05-56](https://github.com/user-attachments/assets/e95eadeb-74db-4d8e-b91d-d302f50cd43e)
+![photo_2024-12-26_23-05-58](https://github.com/user-attachments/assets/cb101ddc-89c1-4641-b5ef-258a7a09c5c2)
+![photo_2024-12-26_23-05-59](https://github.com/user-attachments/assets/c39cca4d-e4f6-455e-9410-2e47e4c18e4b)
+![photo_2024-12-26_23-06-01](https://github.com/user-attachments/assets/e174985c-7007-4bce-989f-150209ebb906)
+![photo_2024-12-26_23-05-50](https://github.com/user-attachments/assets/62498954-33b0-434c-9276-e761634bcd8c)
+![photo_2024-12-26_23-05-55](https://github.com/user-attachments/assets/90990011-26c1-4d72-9926-68407806750d)
 
 
 
