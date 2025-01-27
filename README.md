@@ -1,6 +1,7 @@
 
-![изображение-removebg-preview](https://github.com/user-attachments/assets/9d273b76-7cac-4903-ac57-17614b79e0e5)
 
+
+![изображение-removebg-preview](https://github.com/user-attachments/assets/4d25ad79-60bc-441a-a7e2-9cc496aedecd)
 
 
 
@@ -20,12 +21,12 @@ EduCA - простая программа, сосредоточенная на �
 
 Скриншоты
 
-![photo_2024-12-26_23-05-56](https://github.com/user-attachments/assets/e95eadeb-74db-4d8e-b91d-d302f50cd43e)
-![photo_2024-12-26_23-05-58](https://github.com/user-attachments/assets/cb101ddc-89c1-4641-b5ef-258a7a09c5c2)
-![photo_2024-12-26_23-05-59](https://github.com/user-attachments/assets/c39cca4d-e4f6-455e-9410-2e47e4c18e4b)
-![photo_2024-12-26_23-06-01](https://github.com/user-attachments/assets/e174985c-7007-4bce-989f-150209ebb906)
-![photo_2024-12-26_23-05-50](https://github.com/user-attachments/assets/62498954-33b0-434c-9276-e761634bcd8c)
-![photo_2024-12-26_23-05-55](https://github.com/user-attachments/assets/90990011-26c1-4d72-9926-68407806750d)
+![изображение](https://github.com/user-attachments/assets/3e1474cc-783b-4666-91d3-7235d3e59517)
+![изображение](https://github.com/user-attachments/assets/8f0cdd5c-d9c4-4353-a70a-9854ff183b64)
+![изображение](https://github.com/user-attachments/assets/0f191bef-b222-4e9a-a0a7-1f07dea934b1)
+![изображение](https://github.com/user-attachments/assets/4ccd3d48-d6d2-4f82-92a0-885a69314e81)
+![изображение](https://github.com/user-attachments/assets/00e946bc-ec23-4d65-a3aa-9324939d618b)
+![изображение](https://github.com/user-attachments/assets/b94d88d8-29cb-4c2a-b998-8602521e1806)
 
 
 
@@ -33,5 +34,5 @@ EduCA - простая программа, сосредоточенная на �
 
 Доступно на Trashbox.ru [[тык]([https://trashbox.ru/topics/186705/educa-1.22])](https://trashbox.ru/topics/186705/educa-1.22)
 
-© The F Project 2024 
+© The F Project 2025 
 
