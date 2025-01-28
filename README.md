@@ -33,6 +33,6 @@ EduCA - простая программа, сосредоточенная на �
 Актуальна версия: [Тут]([https://github.com/FaliedDedd/edu/releases](https://github.com/The-F-Project/EduCA/releases))
 
 Доступно на Trashbox.ru [[тык]([https://trashbox.ru/topics/186705/educa-1.22])](https://trashbox.ru/topics/186705/educa-1.22)
-
+[Исодный код, только для разработчиков](https://github.com/The-F-Project/EduCA-Global-Update)
 © The F Project 2025 
 
