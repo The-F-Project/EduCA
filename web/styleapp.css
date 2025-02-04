@@ -62,8 +62,9 @@ body {
 
 .app-screenshots {
     margin-top: 20px;
-    overflow-x: auto; /* Добавляем горизонтальный скролл */
-    white-space: nowrap; /* Запрещаем перенос элементов на новую строку */
+    overflow-x: auto; /* Горизонтальный скролл */
+    white-space: nowrap; /* Элементы в одну строку */
+    padding-bottom: 10px; /* Отступ для скролла */
 }
 
 .app-screenshots h2 {
@@ -72,9 +73,9 @@ body {
 }
 
 .screenshot {
-    display: inline-block; /* Размещаем скриншоты в одну строку */
-    width: 200px; /* Уменьшаем ширину скриншотов */
-    margin-right: 10px; /* Добавляем отступ между скриншотами */
+    display: inline-block; /* Элементы в одну строку */
+    width: 200px; /* Ширина скриншота */
+    margin-right: 10px; /* Отступ между скриншотами */
 }
 
 .screenshot img {
