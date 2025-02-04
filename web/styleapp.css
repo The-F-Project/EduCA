@@ -1,0 +1,114 @@
+/* Основные стили */
+body {
+    font-family: "Apple Legacy Chevron", Arial, sans-serif;
+    background-color: #f5f5f7;
+    color: #1d1d1f;
+    margin: 0;
+    padding: 0;
+}
+
+.app-card {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.app-banner img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.app-info {
+    padding: 20px;
+}
+
+.app-icon img {
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.app-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.app-description {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.download-button {
+    background-color: #0071e3;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.download-button:hover {
+    background-color: #005bb5;
+}
+
+.app-screenshots {
+    margin-top: 20px;
+}
+
+.app-screenshots h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.screenshot img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.spoilers {
+    margin-top: 20px;
+}
+
+.spoiler {
+    margin-bottom: 10px;
+}
+
+.spoiler-button {
+    width: 100%;
+    background-color: #f5f5f7;
+    border: 1px solid #ddd;
+    padding: 10px;
+    font-size: 16px;
+    text-align: left;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+}
+
+.spoiler-button:hover {
+    background-color: #e0e0e0;
+}
+
+.spoiler-content {
+    display: none;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-top: 5px;
+}
+
+.spoiler-content p {
+    margin: 0;
+}
