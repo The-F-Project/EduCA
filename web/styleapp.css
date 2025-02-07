@@ -1,4 +1,4 @@
-/* Основные стили */
+
 body {
     font-family: "Apple Legacy Chevron", Arial, sans-serif;
     background-color: #f5f5f7;
@@ -46,8 +46,9 @@ body {
 }
 
 .download-button {
-    background-color: #0071e3;
-    color: #fff;
+    background-color: #8085746A;
+    color: #d8cdc7;
+    font-family: "Russo One", sans-serif;
     border: none;
     padding: 10px 20px;
     font-size: 16px;
@@ -57,14 +58,14 @@ body {
 }
 
 .download-button:hover {
-    background-color: #005bb5;
+    background-color: #707070;
 }
 
 .app-screenshots {
     margin-top: 20px;
-    overflow-x: auto; /* Горизонтальный скролл */
-    white-space: nowrap; /* Элементы в одну строку */
-    padding-bottom: 10px; /* Отступ для скролла */
+    overflow-x: auto; 
+    white-space: nowrap; 
+    padding-bottom: 10px; 
 }
 
 .app-screenshots h2 {
@@ -73,9 +74,9 @@ body {
 }
 
 .screenshot {
-    display: inline-block; /* Элементы в одну строку */
-    width: 200px; /* Ширина скриншота */
-    margin-right: 10px; /* Отступ между скриншотами */
+    display: inline-block; 
+    width: 200px; 
+    margin-right: 10px; 
 }
 
 .screenshot img {
@@ -94,7 +95,9 @@ body {
 
 .spoiler-button {
     width: 100%;
-    background-color: #f5f5f7;
+    background-color: #8085746A;
+    color: #d8cdc7;
+    font-family: "Russo One", sans-serif;
     border: 1px solid #ddd;
     padding: 10px;
     font-size: 16px;
@@ -105,7 +108,7 @@ body {
 }
 
 .spoiler-button:hover {
-    background-color: #e0e0e0;
+    background-color: #707070;
 }
 
 .spoiler-content {
